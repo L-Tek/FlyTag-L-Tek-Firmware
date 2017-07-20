@@ -1,4 +1,4 @@
-# FlyTag-FireFly-Firmware
+# FlyTag-Firmware
 Repository of FlyTag Firmware
 
 Firmware:
