@@ -7,13 +7,14 @@ Repository of FlyTag Firmware
 
 Firmware:
 
-FlyTag_v1.0.13.zip
+* [FlyTag_v1.0.13.zip](FlyTag_v1.0.13.zip)
+
 Firmware that supports all recipes for IoT projects.
 functions:
 	allows connection to FlyTag,
 	can be sent commands and responds to them.
 
-FlyTag_v1.1S.zip
+* FlyTag_v1.1S.zip
 
 Firmware that supports all recipes for IoT projects,
 with added feature of having a possibility of driving a servo motor.
@@ -29,7 +30,7 @@ In order to reprogram your FF1502 you have to start the FF1502 in bootloader mod
 
 ![](img/0.png)
 
-Another thing you need is a mobile app "nRF Connect for Mobile" which is obtainable for ios and android. With nrf connect you connect to your FF1502 in bootloader mode (DfuTarg):
+Another thing you need is a mobile app `nRF Connect for Mobile` which is obtainable for ios and android. With nrf connect you connect to your FF1502 in bootloader mode (DfuTarg):
 
 ![](img/1.png)
 
