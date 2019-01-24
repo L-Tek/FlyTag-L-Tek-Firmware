@@ -27,19 +27,19 @@ functions:
 
 In order to reprogram your FF1502 you have to start the FF1502 in bootloader mode which is done by pressing the button before powering up the device:
 
-[img TODO]
+![](img/1.png)
 
 Another thing you need is a mobile app "nRF Connect for Mobile" which is obtainable for ios and android. With nrf connect you connect to your FF1502 in bootloader mode (DfuTarg):
 
-[img TODO]
+![](img/2.png)
 
 Then press the button as in the picture:
 
-[img TODO]
+![](img/3.png)
 
 Select distribution packet and select the firmware you want:
 
-[img TODO]
+![](img/5.png)
 
 
 The process starts automatically:
