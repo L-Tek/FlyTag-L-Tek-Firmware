@@ -1,4 +1,8 @@
-# FlyTag-Firmware
+
+# Abstract
+
+## FlyTag-Firmware
+
 Repository of FlyTag Firmware
 
 Firmware:
@@ -17,3 +21,32 @@ functions:
 	allows connection to FlyTag,
 	can be sent commands and responds to them,
 	additional command for driving servo motor
+
+
+## Firmware upgrade
+
+In order to reprogram your FF1502 you have to start the FF1502 in bootloader mode which is done by pressing the button before powering up the device:
+
+[img TODO]
+
+Another thing you need is a mobile app "nRF Connect for Mobile" which is obtainable for ios and android. With nrf connect you connect to your FF1502 in bootloader mode (DfuTarg):
+
+[img TODO]
+
+Then press the button as in the picture:
+
+[img TODO]
+
+Select distribution packet and select the firmware you want:
+
+[img TODO]
+
+
+The process starts automatically:
+
+[img TODO]
+
+
+
+
+
