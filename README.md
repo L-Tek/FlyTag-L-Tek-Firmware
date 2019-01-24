@@ -3,7 +3,7 @@
 
 ## FlyTag-Firmware
 
-Repository of FlyTag Firmware
+Repository of FlyTag Firmware, compatible with L-Tek FF1502 Sensor BLE.
 
 Firmware:
 
