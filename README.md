@@ -34,7 +34,7 @@ Another thing you need is a mobile app `nRF Connect for Mobile` which is obtaina
 
 ![](img/1.png)
 
-Then press the button as in the picture:
+Then press the button DFU as in the picture:
 
 ![](img/2.png)
 
@@ -43,7 +43,7 @@ Select distribution packet and select the firmware you want:
 ![](img/3.png)
 
 
-The process starts automatically:
+The process of reprogramming starts automatically:
 
 ![](img/5.png)
 
